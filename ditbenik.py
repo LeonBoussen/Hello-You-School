@@ -56,7 +56,7 @@ if andwoord1 == 'B':
 if andwoord1 == 'C':
     
     print("woow goed gedaan",name,"dat heb je goed")
-,
+
 time.sleep(1)
 
 exit()
