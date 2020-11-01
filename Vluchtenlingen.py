@@ -5,8 +5,8 @@ os.system("cls")
 
 curvraag = 0;     # 0 = intro
 
-intro = 0;
-vraag1 = 1;
+intro = 1;
+vraag1 = 0;
 antwoord1 = 0;
 vraag2 = 0;
 antwoord2 = 0;
